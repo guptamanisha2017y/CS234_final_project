@@ -1,0 +1,9 @@
+
+.venv/
+
+
+# ignore training outputs
+runs/
+checkpoints/
+*.zip
+
